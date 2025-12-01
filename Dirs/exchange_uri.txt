@@ -1,0 +1,8 @@
+owa/
+ews/
+ecp/
+oab/
+autodiscover/
+Microsoft-Server-ActiveSync/
+rpc/
+powershell/
